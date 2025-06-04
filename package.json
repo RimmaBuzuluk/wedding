@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "swiper": "^11.2.7"
-  }
+	"dependencies": {
+		"swiper": "^11.2.7"
+	},
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
 }
